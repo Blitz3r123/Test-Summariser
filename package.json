@@ -10,7 +10,7 @@
   "author": "Kaleem Peeroo",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^4.0.2"
+    "fast-csv": "^4.3.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
